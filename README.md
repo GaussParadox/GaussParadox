@@ -37,7 +37,6 @@
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode&perline=8" alt="Tools" />
-  <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" alt="Trello" />
 </p>
 
 ### Office suite
