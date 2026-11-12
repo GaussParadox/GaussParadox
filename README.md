@@ -59,9 +59,7 @@
 
 ## 📊 My stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GaussParadox&theme=shades-of-purple&show_icons=true" alt="GitHub stats" />
-</p>
+
 
 <p align="center">
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
